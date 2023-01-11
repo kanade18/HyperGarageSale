@@ -1,6 +1,6 @@
 # Final Project : Garage Sale
 # Authors:
-1) Shalmali Kanade (001578591)
+1) Shalmali Kanade
 2) Rutuja Kale
 
 # Description:
