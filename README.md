@@ -4,6 +4,6 @@
 2) Rutuja Kale
 
 App flow screenshots:
-![alt text](https://github.com/kanade18/INFO6350_1578591_ShalmaliKanade/blob/main/garage-sale.jpg?raw=true)
+![alt text](https://github.com/kanade18/HyperGarageSale/blob/main/garage-sale.jpg?raw=true)
 
 App Demo Video:
